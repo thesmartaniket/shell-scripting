@@ -1,7 +1,7 @@
 <h1>Shell Scripting</h1>
 A shell script is a computer program designed to be run by a Unix shell, a command-line interpreter. The various dialects of shell scripts are considered to be scripting languages. Shell scripting is an important part of process automation in Linux. Scripting helps you write a sequence of commands in a file and then execute them. The default shell for many Linux distros is the GNU Bourne-Again Shell (bash). Bash is succeeded by Bourne shell (sh).<br />
 <br />
-Here I will discuss about some basics of shell scripting (sh) with some example scripts.
+Here I will share some basics script programs.
 
 <h1>File Format</h1>
 
